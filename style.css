@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color: rgb(1, 109, 1);
+  color: #fff;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.centered {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+input {
+  width: 3em;
+}
+
+td, .text-center {
+  text-align: center;
+  padding-top: 1em;
+}
